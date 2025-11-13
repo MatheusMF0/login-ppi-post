@@ -1,0 +1,30 @@
+{
+  "name": "login-ppi",
+  "version": "1.0.0",
+  "description": "Atividade LOGIN POST",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMF0/login-ppi-post.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "http",
+    "post"
+  ],
+  "author": "Matheus Milhorança Ferrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMF0/login-ppi-post/issues"
+  },
+  "homepage": "https://github.com/MatheusMF0/login-ppi-post#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
